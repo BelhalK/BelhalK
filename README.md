@@ -28,4 +28,3 @@ I am currently working at [**Nike**](https://jobs.nike.com/fr/insights-and-analy
 * [**Saemix**](https://github.com/saemixdevelopment/saemixextension): Open Source R package for nonlinear mixed effects modeling. [[Project Page]](https://saemixr.github.io/) [[Case Studies]](https://saemixdevelopment.github.io/saemix_bookdown/casestudies.html)
 * [**Brainattic**](https://famm-group.com/start-up/brainattic/): Video search engine and automatic trailer generation using Embeddings-based modeling.
 * [**Monk AI**](https://monk.ai/): Automated & objective condition reports for car hailing services.
-
