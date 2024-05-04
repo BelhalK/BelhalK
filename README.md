@@ -7,7 +7,7 @@
 </div>
 <br/>
 
-Hello! I am an ML Research & Applied Scientist.
+Hello! I am an ML Researcher & Applied Scientist.
 
 ## ✍ Selected Publications
 
