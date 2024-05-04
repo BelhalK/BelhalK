@@ -22,7 +22,7 @@ I am currently working at [**Nike**](https://jobs.nike.com/fr/insights-and-analy
 
 * [**Layer-wise and Dimension-wise Locally Adaptive Federated Learning**](https://openreview.net/pdf?id=Q06wKxnHRv). Published at The Conference on Uncertainty in Artificial Intelligence (UAI), 2023.
 
-* [**On the Convergence of Decentralized Adaptive Gradient Methods**](https://proceedings.mlr.press/v189/chen23b/chen23b.pdf). Published at The Asian Conference on Machine Learning (ACML), 2022.
+<!-- * [**On the Convergence of Decentralized Adaptive Gradient Methods**](https://proceedings.mlr.press/v189/chen23b/chen23b.pdf). Published at The Asian Conference on Machine Learning (ACML), 2022. -->
 
 * [**On Distributed Adaptive Optimization with Gradient Compression**](https://openreview.net/pdf?id=CI-xXX9dg9l). Published at The International Conference on Learning Representations (ICLR), 2022.
 
