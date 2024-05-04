@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
     🐤 <a href="https://twitter.com/BelhalK">Follow me on X</a> • 
-    💻 <a href="https://belhal.github.io/">Personal Web</a> • 
+    💻 <a href="https://belhal.github.io/">Personal Page</a> • 
     👨‍💻 <a href="https://www.linkedin.com/in/belhal-karimi">LinkedIn</a>
   </p>
 </div>
