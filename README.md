@@ -1,41 +1,19 @@
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .navbar {
-            background-color: #2D3142; /* Dark charcoal */
-            overflow: hidden;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Adds shadow for depth */
-        }
-        .navbar a {
-            float: left;
-            display: block;
-            color: #BFC0C0; /* Soft grey */
-            text-align: center;
-            padding: 14px 20px;
-            text-decoration: none;
-            transition: color 0.3s; /* Smooth transition for color change */
-        }
-        .navbar a:hover {
-            background-color: #4F5D75; /* Medium dark blue */
-            color: #FFFFFF; /* White text on hover */
-        }
-    </style>
-</head>
-<body>
-    <div class="navbar">
-        <a href="https://twitter.com/BelhalK">🐤 Follow me on X</a>
-        <a href="https://belhal.github.io/">💻 Personal Page</a>
-        <a href="https://www.linkedin.com/in/belhal-karimi">👨‍💻 LinkedIn</a>
-    </div>
-</body>
+<p align="center">
+  <a href="https://twitter.com/BelhalK"><img src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+  &#x2022; <!-- Bullet -->
+  <a href="https://belhal.github.io"><img src="https://img.shields.io/badge/Personal%20Page-607D8B?style=flat&logo=earth&logoColor=white"/></a>
+  &#x2022; <!-- Bullet -->
+  <a href="https://www.linkedin.com/in/belhal-karimi"><img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat&logo=LinkedIn&logoColor=white"/></a>
+</p>
 
-
-
-<br/>
+<!-- <div align="center">
+  <p align="center">
+    🐤 <a href="https://twitter.com/BelhalK">Follow me on X</a> • 
+    💻 <a href="https://belhal.github.io/">Personal Page</a> • 
+    👨‍💻 <a href="https://www.linkedin.com/in/belhal-karimi">LinkedIn</a>
+  </p>
+</div>
+<br/> -->
 
 Hello! I am an ML Researcher & Applied Scientist.
 I am currently working at [**Nike**](https://jobs.nike.com/fr/insights-and-analytics) in the Search team, in charge of Matching, Ranking and GenAI initiatives for both Nike APP and Nike.com. Before that, I was a Research Scientist in the Cognitive Computing Lab at [**Baidu Research**](http://research.baidu.com/) working with Dr. Ping Li.
@@ -44,7 +22,7 @@ I am currently working at [**Nike**](https://jobs.nike.com/fr/insights-and-analy
 
 * [**Layer-wise and Dimension-wise Locally Adaptive Federated Learning**](https://openreview.net/pdf?id=Q06wKxnHRv). Published at The Conference on Uncertainty in Artificial Intelligence (UAI), 2023.
 
-<!-- * [**On the Convergence of Decentralized Adaptive Gradient Methods**](https://proceedings.mlr.press/v189/chen23b/chen23b.pdf). Published at The Asian Conference on Machine Learning (ACML), 2022. -->
+* [**On the Convergence of Decentralized Adaptive Gradient Methods**](https://proceedings.mlr.press/v189/chen23b/chen23b.pdf). Published at The Asian Conference on Machine Learning (ACML), 2022.
 
 * [**On Distributed Adaptive Optimization with Gradient Compression**](https://openreview.net/pdf?id=CI-xXX9dg9l). Published at The International Conference on Learning Representations (ICLR), 2022.
 
