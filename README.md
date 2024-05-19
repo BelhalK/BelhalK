@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://twitter.com/BelhalK"><img src="https://img.shields.io/badge/Follow%20on%20X-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
-  &#x2022; <!-- Bullet -->
   <a href="https://belhal.github.io"><img src="https://img.shields.io/badge/Personal%20Page-607D8B?style=flat&logo=earth&logoColor=white"/></a>
-  &#x2022; <!-- Bullet -->
   <a href="https://www.linkedin.com/in/belhal-karimi"><img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
