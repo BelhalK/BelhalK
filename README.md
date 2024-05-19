@@ -16,6 +16,8 @@
 Hello! I am an ML Researcher & Applied Scientist.
 I am currently working at [**Nike**](https://jobs.nike.com/fr/insights-and-analytics) in the Search team, in charge of Matching, Ranking and GenAI initiatives for both Nike APP and Nike.com. Before that, I was a Research Scientist in the Cognitive Computing Lab at [**Baidu Research**](http://research.baidu.com/) working with Dr. Ping Li.
 
+I obtained my Ph.D. in Machine Learning at [**Ecole Polytechnique**]([http://research.baidu.com/](https://portail.polytechnique.edu/cmap/fr?lang=en) and [**INRIA**](https://team.inria.fr/xpop/fr/) under the supervision of Marc Lavielle and Eric Moulines.
+
 ## ✍ Selected Publications
 
 <!-- * [**Layer-wise and Dimension-wise Locally Adaptive Federated Learning**](https://openreview.net/pdf?id=Q06wKxnHRv). Published at The Conference on Uncertainty in Artificial Intelligence (UAI), 2023.
