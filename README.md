@@ -20,15 +20,27 @@ I am currently working at [**Nike**](https://jobs.nike.com/fr/insights-and-analy
 
 ## ✍ Selected Publications
 
-* [**Layer-wise and Dimension-wise Locally Adaptive Federated Learning**](https://openreview.net/pdf?id=Q06wKxnHRv). Published at The Conference on Uncertainty in Artificial Intelligence (UAI), 2023.
+<!-- * [**Layer-wise and Dimension-wise Locally Adaptive Federated Learning**](https://openreview.net/pdf?id=Q06wKxnHRv). Published at The Conference on Uncertainty in Artificial Intelligence (UAI), 2023.
 
-<!-- * [**On the Convergence of Decentralized Adaptive Gradient Methods**](https://proceedings.mlr.press/v189/chen23b/chen23b.pdf). Published at The Asian Conference on Machine Learning (ACML), 2022. -->
+* [**On the Convergence of Decentralized Adaptive Gradient Methods**](https://proceedings.mlr.press/v189/chen23b/chen23b.pdf). Published at The Asian Conference on Machine Learning (ACML), 2022.
 
 * [**On Distributed Adaptive Optimization with Gradient Compression**](https://openreview.net/pdf?id=CI-xXX9dg9l). Published at The International Conference on Learning Representations (ICLR), 2022.
 
 * [**Dual Energy-Flow Enhanced Graph Neural Network for Visual Question Answering**](https://ieeexplore.ieee.org/document/9859766). Published at The International Conference on Multimedia and Expo (ICME), 2022.
 
-* [**Towards Better Generalization of Adaptive Gradient Methods**](https://proceedings.neurips.cc/paper/2020/file/08fb104b0f2f838f3ce2d2b3741a12c2-Paper.pdf). Published at Advances in Neural Information Processing Systems (NeurIPS), 2020.
+* [**Towards Better Generalization of Adaptive Gradient Methods**](https://proceedings.neurips.cc/paper/2020/file/08fb104b0f2f838f3ce2d2b3741a12c2-Paper.pdf). Published at Advances in Neural Information Processing Systems (NeurIPS), 2020. -->
+
+
+* [**Layer-wise and Dimension-wise Locally Adaptive Federated Learning**](https://openreview.net/pdf?id=Q06wKxnHRv) [UAI, 2023]
+* [**On the Convergence of Decentralized Adaptive Gradient Methods**](https://proceedings.mlr.press/v189/chen23b/chen23b.pdf) [ACML, 2022]
+* [**FeatureBox: Feature Engineering on GPUs for Massive-Scale Ads Systems**](https://arxiv.org/pdf/2210.07768) [IEEE BigData, 2022]
+* [**On Distributed Adaptive Optimization with Gradient Compression**](https://openreview.net/pdf?id=CI-xXX9dg9l) [ICLR, 2022]
+* [**Variational Flow Graphical Model**](https://dl.acm.org/doi/abs/10.1145/3534678.3539450) [KDD, 2022]
+* [**Dual Energy-Flow Enhanced Graph Neural Network for Visual Question Answering**](https://ieeexplore.ieee.org/document/9859766) [ICME, 2022]
+* [**An Optimistic Acceleration of AMSGrad for Nonconvex Optimization**](https://proceedings.mlr.press/v157/wang21c/wang21c.pdf) [ACML, 2021]
+* [**Towards Better Generalization of Adaptive Gradient Methods**](https://proceedings.neurips.cc/paper/2020/file/08fb104b0f2f838f3ce2d2b3741a12c2-Paper.pdf) [NeurIPS, 2020]
+* [**On the global convergence of (fast) incremental expectation maximization methods**](https://proceedings.neurips.cc/paper/2019/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf) [NeurIPS, 2019]
+* [**Non-asymptotic Analysis of Biased Stochastic Approximation Scheme**](https://proceedings.mlr.press/v99/karimi19a/karimi19a.pdf) [COLT, 2019]
 
 
 ## 🚀 Selected Projects
