@@ -46,4 +46,4 @@ I obtained my Ph.D. in Machine Learning at [**Ecole Polytechnique**](https://por
 
 * [**Saemix**](https://github.com/saemixdevelopment/saemixextension): Open Source R package for nonlinear mixed effects modeling. [[Project Page]](https://saemixr.github.io/) [[Case Studies]](https://saemixdevelopment.github.io/saemix_bookdown/casestudies.html)
 * [**Brainattic**](https://famm-group.com/start-up/brainattic/): Video search engine and automatic trailer generation using Embeddings-based modeling.
-* [**Monk AI**](https://monk.ai/): Automated & objective condition reports for car hailing services.
+* [**Monk AI**](https://monk.ai/): AI Powered Vehicle Inspection solutions for the automotive, insurance and mobility markets.
