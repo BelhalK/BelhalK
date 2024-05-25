@@ -13,7 +13,6 @@
 </div>
 <br/> -->
 
-// Hello! I am an ML Researcher & Applied Scientist.
 I am currently working at [**Nike**](https://jobs.nike.com/fr/insights-and-analytics) in the Search team, in charge of Matching, Ranking and Generative AI initiatives. Before that, I was a Research Scientist in the Cognitive Computing Lab at [**Baidu Research**](http://research.baidu.com/) Led by Dr. Ping Li.
 I obtained my Ph.D. in Machine Learning at [**Ecole Polytechnique**](https://portail.polytechnique.edu/cmap/fr?lang=en) and [**INRIA**](https://team.inria.fr/xpop/fr/) under the supervision of Marc Lavielle and Eric Moulines.
 
